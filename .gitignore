@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# uv / virtualenv
+.venv/
+
+# Measurement data / outputs
+*.npy
+*.csv
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
