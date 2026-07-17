@@ -1,6 +1,6 @@
-# Enhancing Smart Stethoscope Performance
+# Modal Analysis Toolkit
 
-Analytical tools from my MEng project, *Understanding heart-sound propagation in the human chest*. They cover experimental control for vibrational testing, noise reduction, and frequency-domain analysis.
+Analytical tools from my MEng project, *Understanding heart-sound propagation in the human chest*. They cover experimental control for vibrational testing, noise reduction, frequency-domain analysis - for the purposes of vibrational modal analysis [What is Modal Analysis?](https://dewesoft.com/blog/what-is-modal-analysis).
 
 > Heart sound region segmenation (systole, diastole) and VHD classification models are omitted from this repository
 
